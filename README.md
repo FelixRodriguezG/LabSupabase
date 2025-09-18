@@ -25,7 +25,7 @@ Práctica de creación de tablas en Supabase
 3. **Captura de pantalla de la configuración:**  
    _Adjunta aquí tu captura de pantalla de la configuración de las tablas en Supabase._
 
-   ![Captura de configuración de tablas](ruta/a/tu/captura.png)
+   ![Captura de configuración de tablas](CapturaSupabase.png)
 
 4. **Repositorio y README con capturas:**  
    Este repositorio contiene el README y las capturas de pantalla solicitadas.
